@@ -9,7 +9,7 @@
 # 面板配置
 API_HOST="https://01d.dklineo.top"
 API_KEY="DUxkfXbXZyr6DaF3qaZsVBev"
-NODE_ID=45
+NODE_ID=21
 
 RED='\033[0;31m'
 GREEN='\033[0;32m'
